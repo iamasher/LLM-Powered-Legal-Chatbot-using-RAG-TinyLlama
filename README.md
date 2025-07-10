@@ -78,8 +78,6 @@ streamlit run app.py
 **Q3:** Are bots allowed to access the service?  
 ** A:** No, the agreement clearly prohibits automated tools and scraping.
 
-**Q4:** What is the refund policy?  
-** A:** Not mentioned in the document (handled gracefully).
 
 ---
 
