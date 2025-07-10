@@ -55,9 +55,10 @@ streamlit run app.py
 
 ---
 
-## Screenshot
+##  Demo
 
-> ![Chatbot UI](demo/screenshot.png)  
+![Demo](https://github.com/iamasher/amlgo-rag-chatbot/raw/main/Demo.gif)
+
 > _(Includes streamed response, user query, and source chunks used)_
 
 ---
