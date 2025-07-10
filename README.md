@@ -65,18 +65,18 @@ streamlit run app.py
 
 ## Sample Questions + Answers
 
-**Q1:** What happens if the user violates the terms?  
-** A:**
+Q1: What happens if the user violates the terms?  
+ A:
 
 - Account may be suspended
 - Listings removed
 - Legal action taken as per the user agreement
 
-**Q2:** Can the company change the terms at any time?  
-** A:** Yes, the document explicitly states the company reserves the right to amend terms unilaterally.
+Q2: Can the company change the terms at any time?  
+ A: Yes, the document explicitly states the company reserves the right to amend terms unilaterally.
 
-**Q3:** Are bots allowed to access the service?  
-** A:** No, the agreement clearly prohibits automated tools and scraping.
+Q3: Are bots allowed to access the service?  
+ A: No, the agreement clearly prohibits automated tools and scraping.
 
 
 ---
@@ -113,12 +113,10 @@ streamlit run app.py
 │   ├── generator.py
 │   └── retriever.py
 ├── app.py            # Streamlit UI with streaming + formatting
-├── test_generator.py
 ├── requirements.txt
 ├── README.md
-├── demo/             # Screenshot or demo GIF
-├── docs/             # Report.pdf (final writeup)
-└── report.pdf        # [If placed in root folder]
+├── demo/             # demo GIF
+└── report.pdf       
 ```
 
 ---
