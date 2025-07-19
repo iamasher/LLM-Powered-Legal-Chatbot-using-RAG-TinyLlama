@@ -1,4 +1,4 @@
-# Fine-Tuned RAG Chatbot with Streaming Responses – Amlgo Labs
+# Fine-Tuned RAG Chatbot with Streaming Responses 
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot that allows users to ask questions about legal documents (like Terms & Conditions, Privacy Policies) and receive factual, grounded answers using an open-source LLM.
 
@@ -129,6 +129,3 @@ Q3: Are bots allowed to access the service?
 
 ---
 
-## License
-
-This project is intended for evaluation by Amlgo Labs and for educational use only. Not licensed for commercial use.
