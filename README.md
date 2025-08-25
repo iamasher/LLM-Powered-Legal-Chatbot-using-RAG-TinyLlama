@@ -1,4 +1,4 @@
-# Fine-Tuned RAG Chatbot with Streaming Responses 
+# Fine-Tuned RAG Chatbot with Streaming Responses - GenAI 
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot that allows users to ask questions about legal documents (like Terms & Conditions, Privacy Policies) and receive factual, grounded answers using an open-source LLM.
 
